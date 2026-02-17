@@ -1,0 +1,329 @@
+---
+title: |
+    | GOVT2306: Texas Government
+    | Lecture 2: What is Government? What is Politics?
+author: "Instructor: Tom Hanna, Spring 2026"
+date: February 12, 2026
+format: 
+        pdf: 
+                toc: true
+                toc-depth: 2
+                toc-location: left
+                number-sections: true
+                fig_caption: true
+        html:
+                theme: cosmo
+                style: custom.css
+                axe: true
+                self-contained: true
+                code-fold: false
+                logo: ../logo.jpg
+                footer: "GOVT2306, Spring 2026, Instructor: Tom Hanna"
+        revealjs:
+                self-contained: true
+                transition: convex
+                incremental: true
+                theme: [default,../assets/custom.css]
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2305, Spring Second Start, Instructor: Tom Hanna" 
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(kableExtra)
+```
+
+
+# Agenda and Announcements
+
+## Agenda
+
+- Today:
+
+        - Study tips
+        - Introduction to the topic of government: What is Government? What is Politics? Where does Texas government fit?
+        - Activities/Discussion: Experiences with Government
+        - Question and Answer
+
+
+## February 17 - Module 0 Due!
+        
+- Texas Background: History, Geography, People, and Culture
+- State vs. Federal: dividing the responsibilities
+
+
+## Reminder! Due Dates Begin Immediately
+
+- Module 0 is due February 17
+- Module 1 Due March 3
+- Module 0 must be done on time or you risk a drop for non-activity
+- You must complete Module 0 to do any other work in the course, so get started on it right away!
+- All textbook homeworks for semester are already assigned in Textbook, so you have plenty of time and no excuses for late work
+
+        
+
+        
+
+
+# Texas Government: Introduction to Government and Federalism{background-color="yellow" background-image="texas_state_capitol.jpg" background-size="100px" background-repeat="repeat"}
+
+
+
+# introduction to Government
+        
+## Introduction to Government: Short discussion
+
+::: {.custom-style style="font-size: 80px;"}
+Before stepping on the campus today, what was the last time that politics made a direct difference in your life?
+:::
+* physical difference, not just a feeling
+
+## What is government / politics? 
+
+- **Expensive or involves large amounts of money**
+- **Distant**
+- **Involves politicians or campaigns**
+- **involves voting or decision making**
+- **Involves rights**
+- **National borders**
+- **Controversial**
+
+
+
+
+## What is politics: State and local (mostly)
+
+![Houston Public Works](houston-public.png){width="49%"}
+
+## What is politics: Federal, state and local
+
+![Metro rail](metrorail.jpg){width="49%"} 
+
+## What is politics: Federal, state and local (cont)
+
+![HCC Central Campus](hcc_central.jpg){width="49%"}
+
+
+## What is politics? 
+
+- **Not distant** 
+- **immediate,right here**
+- **touches everything**
+- **direct impacts are constant**
+- **involves all of us**
+- **It can be expensive, but it's not always about money**
+
+
+
+## Politics is powerful
+
+- Immense power to achieve good ends 
+- Immense power to do incredible harm
+
+## Why is poltiics so potentially harmful?
+
+::: {.custom-style style="font-size: 3em;"}
+Why does politics have such power to cause harm?
+:::
+
+
+
+## Introduction to Government
+
+::: {.custom-style style="font-size: 80px;"}
+To really understand government and politics we first need to know what those things are. 
+:::
+
+
+## What is government?
+
+:::{.custom-style style="font-size: 80px;"}
+What is government?
+:::
+
+- Government is what it does
+- Government is something else more fundamental
+
+
+
+## What does government do?
+
+:::{.custom-style style="font-size: 80px;"}
+Collective action: organizing individuals to achieve a common goal
+:::
+
+
+
+
+## Is government the only group that engages in collective action?
+
+
+:::{.custom-style style="font-size: 80px;"}
+Is government the only group that engages in collective action?
+:::
+
+
+## Other organizations that engage in collective action
+
+- Family
+- Churches
+- Charities
+- Businesses!
+- Community organizations
+
+
+
+
+## What makes government different?
+
+
+::: {.custom-style style="font-size: 80px;"}
+What makes government different from other organizations?
+:::
+
+
+## Enforcement of rules
+
+![Severe Penalties](severe_penalties.jpg){width="90%"}
+
+
+
+## How does government enforce rules?
+
+- police force
+- prison system
+- military
+- **enforcement backed by violent, armed force**
+
+
+
+## Formal definition of government
+
+:::{.custom-style style="font-size: 75px;"}
+Government is the organization that has the **exclusive right to use organized coercive force** in a given territory that is commonly perceived as **legitimate**.
+:::
+
+## Breaking down the definition
+
+- organized
+- coercive
+- violent
+- legitimate
+
+
+## What is politics?
+
+:::{.custom-style style="font-size: 75px;"}
+Politics is the process of making collective decisions in the context of government. Making collective decisions about why, how, and when to use coercive force.
+:::
+
+
+
+
+
+## Why limit government?
+
+- Because at its core government is violent force
+- Violent force is easily abused
+- Even good uses of government still rely on violent force
+- Government is necessary, but it is also dangerous
+
+    
+
+
+    
+        
+
+## How do we limit government in the US system?
+
+- The US and Texas Constitutions
+- Define its powers in the Constitutions
+- Set limits to its powers in the Constitutions
+- Guarantee rights to individuals in the Constitutions
+...
+
+- But can we make those paper guarantees stand up to the reality of violent force?
+
+
+## The first limit on power
+
+:::{.custom-style style="font-size: 80px;"}
+By dividing the power among competing groups with different agendas
+:::
+
+
+## Federal level
+
+![Separation of Powers](separation_of_powers.jpg){width="90%"}
+
+## The second limit on power
+
+:::{.custom-style style="font-size: 80px;"}
+Giving each of those groups powers to limit each of the others
+:::
+
+
+
+
+## Checks and Balances
+
+![Checks and Balances](checks_arrows.jpg){width="90%"}
+
+
+## State level
+
+We do the same thing at the state level, but with different names
+
+- President - Executive (more than the Governor)
+- Congress - Legislature 
+- Courts - Courts
+
+
+
+## One more limit
+
+What is perhaps the biggest separation of powers in the US system?
+
+- Federal vs 50 states
+- Under the US Constitution, the federal government is limited to only those powers that are explicitly granted to it. 
+- All other powers are reserved to the states or the people.
+
+
+## Supremacy
+
+- The US Constitution is the supreme law of the land
+- The federal government is supreme in areas given to it by the US Constitution
+- Under the state constitutions, the states are supreme in anything not prohibited *by US Constitution* (10th Amendment)
+- Note: this does not say, "prohibited by Congress" or "prohibited by the President" or even "prohibited by the Supreme Court
+
+
+
+
+
+## State vs Federal Powers
+
+![State vs Federal Powers](powers.jpg){width="90%"}
+
+
+## The Final Check
+
+What is the final peaceful check on federal tyranny?
+
+- One of the least talked about and most important state powers for preventing federal tyranny is the power to...
+
+- **Conduct elections**
+
+
+
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>

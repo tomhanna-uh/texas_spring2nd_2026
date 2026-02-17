@@ -1,0 +1,657 @@
+---
+title: |
+    | GOVT2306: Texas Government
+    | Lecture 3: Federalism and the Texas Constitution
+author: "Instructor: Tom Hanna, Spring 2026"
+date: February 17, 2026
+format:
+        html:
+                theme: cosmo
+                style: custom.css
+                axe: true
+                self-contained: true
+                code-fold: false
+                logo: ../logo.jpg
+                footer: "GOVT2306, Spring 2026, Instructor: Tom Hanna"
+        revealjs:
+                self-contained: true
+                transition: convex
+                incremental: true
+                theme: [default,../assets/custom.css]
+                logo: ../assets/logo.jpg
+                footer: "HCC GOVT2305, Spring Second Start, Instructor: Tom Hanna" 
+        pdf: 
+                toc: true
+                toc-depth: 2
+                toc-location: left
+                number-sections: true
+                fig_caption: true
+---
+
+# Separation of Powers and Federalism
+
+## Why limit government? Why limit majorities?
+
+- What is the unique feature of government?
+- How does government get things done?
+- Coercive physical force - violent force
+- Violent force is prone to abuse
+- Ever heard the phrase, "Violence is not the answer?"
+- Violent force is not appropriate to solve many problems
+
+
+
+
+## How do we limit government in the US system?
+
+- By dividing the power among competing groups with different agendas
+
+        - Different terms of office
+        - Different constituencies selecting the officeholders
+        - Different responsibilities and powers
+        
+- This is: "separation of powers"
+
+## How do we limit government in the US system? (2)
+
+- By giving each part the power to stop the other parts from doing things that are not appropriate
+
+        - Veto power (President over Congress)
+        - Impeachment power (Congress over President))
+        - Judicial review power (Supreme Court over Congress and President)
+        
+        
+        
+
+## Federal level
+
+![Separation of Powers](separation_of_powers.jpg){width="90%"}
+
+
+
+## What is perhaps the biggest separation of powers in the US system?
+
+- Federal vs 50 states
+- Under the US Constitution, the federal government is limited to only those powers that are explicitly granted to it. 
+- All other powers are "reserved to the states, or to the people"
+
+
+## Supremacy
+
+- The US Constitution is the Supreme Law of the Land
+- The federal government is supreme - but only in areas given to it by the US Constitution
+- Under the state constitutions, the states are supreme in anything not prohibited *by US Constitution*
+
+
+
+## Supremacy
+
+- Under the state constitutions, the states are supreme in anything not prohibited *by US Constitution*
+- Note: this does not say, "prohibited by Congress" or "prohibited by the President" or even "prohibited by the Supreme Court"
+
+
+
+## State vs Federal Powers
+
+![State vs Federal Powers](powers.jpg){width="90%"}
+
+
+
+## State Power Not Mentioned
+
+One of the least talked about and most important state powers for preventing federal tyranny is the power to...
+
+- **Conduct elections**
+
+- Why is this so important?
+
+- Last peaceful check against federal tyranny - with state control, we can vote them out
+
+
+## How did we get federalism? 
+
+- Why did the Founders create a federal system?
+- Before the Constitution what powers belonged to the state governments? - What powers belonged to the Articles of Confederation national government?
+
+## Powers of Congress under the Articles
+
+- War and peace 
+- Foreign diplomacy 
+- Congress coule coin money and borrow money
+- Major decisions required 9 of the 13 states to vote yes
+
+- Congress could not tax - it had to ask the states for money
+- Congress could not regulate commerce between the states or with foreign nations, only recommend legislation to the states
+
+## Powers of the states
+
+- Almost all powers of sovereign states - even among the states themselves
+
+- James Madison called the Articles, "a rope of sand" - it was too weak to hold the states together" and "nothing more than a mere treaty...of amity of commerce and alliance between sovereign states"
+
+
+## What would the states give up?
+
+- The Constitution called for 9 states to ratify it before it would go into effect
+- To be truly effective, the Constitution would have to be ratified by all 13 states
+- Compromise
+- Satisfying state interests 
+
+        - the state leaders at the time
+        - the leaders' concerns about the future of their states and people
+        
+        
+## Federalism and Texas
+
+- Texas joined the United States in 1845, but it was an independent country before that
+- There was a Treaty of Annexation never ratified by the US Senate, but it was ratified by the Texas Congress and signed by the Texas President
+- The annexation happened by act of Congress
+- Texas was allowed to keep its public lands and the paramilitary Texas Rangers
+
+
+# Texas's Political History
+
+
+## Frontier state with rich resources, and a history of rebellion
+
+- Texas is a large state with a large population
+- Huge empty spaces, recent frontier history
+- Land, minerals, commerce, and oil
+- 4 Rebellions from 1776 to 1871
+        
+
+
+
+
+## Large, diverse population
+
+- Current population of Texas: 32.47 million
+- 2nd largest state in the US by population
+- But that is not the whole story
+- 2nd largest state in the US by land area: 268,580 sq mi (695,621 sq km)
+- Number 29 by ppulation density: Texas - 124 people per sq mi
+- Still not the whole story
+
+
+## Vast underpopulated land
+
+- Population of Mexican Texas - 1836
+
+        - 5,000 to 7,000 Tejanos
+        - 30,000 Anglo settlers by 1832
+
+- Loving County: Population 64 - Today!
+- Terrell County: Population 760 - Today!
+
+        - 7th least populous
+        - County seat is an unincorporated town called Sanderson
+        - There are no incorporated towns in the county
+        
+- Crockett County: Population 3,098 - Today!
+
+        - County seat is Ozona
+        - There are no incorporated towns in the county
+        - Largest city is Ozona with a population of 2,663
+        - Ozona is the only Census designated place in Crockett County
+        
+        
+        
+## Four Rebellions 
+
+![Come and Take It](come_take_it.jpg)
+        
+        
+## Four Rebellions
+
+- American Revolution (not directly involved) - 1776
+
+        - Tejanos were not involved, but many Anglo settlers were alive during the American Revolution
+        - Anglo settlers brought with them the ideals of the American Revolution
+        - American Revolution inspired the Mexican Revolution
+        - Mexico's first democratic, republican, federalist government drew frpm US Constitution
+
+- Mexican War of Independence - 1810-1821
+
+        - War against Spain
+        - Texas mostly Tejano and Native American at the time
+        - Anglo settlers invited by new Mexican government which was a democratic Republic
+        
+        
+## Four Rebellions (continued)
+
+- Texas Revolution - 1835-1836
+        
+        - Federalist, democratic, republican government of Mexico had been replaced by dictatorial Centralist Republic of Mexico
+        - Anglo settlers rebelled against the Mexican government
+        - Yucatan also successfully rebelled against the Mexican government
+        - Zacatecas, Coahuila, Nuevo Leon, and Tamaulipas also rebelled against the Mexican government
+        
+- US Civil War 1861-1865
+
+        - Texas was a slave state
+        - Texas seceded from the Union and joined the Confederacy
+        - Texas was occupied by Union troops after the war
+        - Texas was readmitted to the Union in 1870 with new Constitution in 1871
+        
+
+
+        
+
+
+
+
+
+# Texas's Political and Demographic (People) Diversity
+
+
+
+## The Diversity of Texas People
+
+- Texas is a large and diverse state
+- Majority-minority state
+- Language diversity
+- Economic diversity^[https://data.census.gov/profile/Texas?g=040XX00US48]
+- Religious diversity^[https://www.pewresearch.org/religious-landscape-study/database/state/texas/]
+
+
+
+## Texas's Diverse Population
+
+- Texas is a large and diverse state
+
+        - 2nd largest state in the US
+        - 2nd most populous state in the US
+        - 2nd most diverse state in the US
+        
+        
+        
+## Texas's Diverse Population
+        
+- Texas is a majority-minority state^[White: 14,609,365 from same source, US Census 2020]
+
+        - American Indian and Alaska Native: 278,948
+        - Asian: 1,585,480
+        - Black or African-American: 3,552,997
+        - Hispanic or Latino: 11,441,717
+        - Native Hawaiian or other Pacific Islander: 33,611
+        - White (not Hispanic or Latino): 11,584,597
+        - Some other race: 3,951,366
+        - Two or more races: 5,133,738
+        
+        
+        
+## Texas's Diverse Population
+
+[Texas population by Age](https://data.census.gov/vizwidget?g=040XX00US48&infoSection=Age and Sex)
+
+        
+## Texas's Diverse Population
+
+
+- Language Other Than English Spoken at Home in Texas:  **35.4%** ± 0.2%
+
+        - Spanish 28.2%
+        - Other Indo-European 2.7%
+        - Asian and Pacific Island languages 3.3%
+        - Other languages 1.2%
+
+- Language Other Than English Spoken at Home in United States: **22.5%** ± 0.1%
+
+
+        
+## Texas's Diverse Population
+
+[Income in Texas](https://data.census.gov/vizwidget?g=040XX00US48&infoSection=Income and Earnings)
+
+
+
+## Texas's Diverse Population
+
+[Employment in Texas](https://data.census.gov/vizwidget?g=040XX00US48&infoSection=Class of Worker)
+
+
+
+## Texas's Diverse Population
+
+[Industry Employment in Texas](https://data.census.gov/vizwidget?g=040XX00US48&infoSection=Industry)
+
+
+
+
+## Texas's Diverse Population: Religion (1)
+
+- Christian: 77%^[https://www.pewresearch.org/religious-landscape-study/database/state/texas/
+
+        - Evangelical Protestant: 31%
+        - Mainline Protestant: 13%
+        - Historically Black Protestant: 6%
+        - Catholic: 23%
+        - Mormon: 1%
+        - Orthodox Christian: 1%
+        - Jehovah's Witness: 1%
+        - Other Christian: 1%
+        
+- Non-Christian Faiths: 4%
+
+        - Jewish: 1%
+        - Muslim: 1%
+        - Buddhist: 1%
+        - Hindu: 1%
+        - Other World Religions: 1%
+        - Other Faiths: 1%
+        
+
+
+
+## Texas's Diverse Population: Religion (2)        
+
+- Unaffiliated: 18%
+
+        - Atheist: 2%
+        - Agnostic: 3%
+        - Nothing in Particular: 13%
+        
+- Don't Know: 1%
+
+
+
+
+
+# Diverse but Connected Political Culture
+
+
+## Political Culture of Texas
+
+- Diverse political culture has two themes that are shared across party, ethnic, and religious lines
+
+        - Individualism
+        - Traditionalism
+        
+- The Texas political mix is complex
+
+        - Individualism and Traditionalism share common sources
+        - The two are antagonistic in some ways, similar in others
+        - The power of Texas and its distance from the East Coast make these even less simple
+        
+## Individualism
+
+- Grew from multiple sources
+- Frontier experience of self-reliance
+- Settlers looking for Economic opportunity (this continues today)
+- American Revolutionary ideals
+        
+## Traditionalism
+
+- Grew from multiple sources
+
+- Frontier experience of neighbors cooperating especially through churches
+- Provincialism - distance of frontier from capital cities
+- Business dominance
+        
+        - Important to note this was dominance of Texas businesses
+        - East coast business interests especially banks were not well regarded
+        
+
+        
+        
+        
+## The cultures and partisan politics
+        
+- Before the 1990s, the Democratic Party appealed successfully to these cultures
+- Since 1990, the Republicans social conservative wing has connected with Texan's traditionalism
+- The Republicans business oriented wing has connected with Texan's individualism 
+- The national Democratic Party difficulty connecting: notable exceptions such as the Clintons and Obama
+
+
+## Regions of Texas
+
+![Regions of Texas map](region_map.png)
+
+
+
+## Regions of Texas
+
+<!-- ![Permian Basin map](permian_basin.jpg) -->
+
+
+
+
+## The cultures and geography
+
+- Traditionalism dominates
+
+        - Interior Lowlands
+        - Great Plains
+        - Basin region
+        - Gulf Coastal Plains - outside urban areas
+        
+- Individualism dominates
+
+        - Urban areas in Gulf Coastal Plains
+        
+- But both strains are present in force in all areas
+        
+        
+        
+        
+
+
+## Things to consider in Texas political culture
+        
+- Individualism: Consider the following?
+
+        - the specifics vary but this is a fundamental characteristic of Texas culture
+        - What about variation among demographic groups? Is there any or is this a commonality?       
+        - Native Texans and newly arrived Texans?
+
+
+
+
+## Things to consider in Texas political culture
+
+- Traditionalism and Individualism can be in conflict
+
+        - How does this play out in Texas politics?
+        - How does this play out in Texas policy?
+        - How does this play out in Texas political parties?
+        
+- Do Traditionalism and Individualism always conflict or can they reinforce each other?
+
+        - When does traditionalism encourage self-reliance?
+        - When traditionalism encourages community cooperation, does that encourage or discourage individualism compared to reliance on state or federal government?
+        
+        
+
+
+
+
+## Representation in Texas
+
+- The point of this is not to criticize the current state of representation in Texas, but to understand how we got here and what it means for the future of Texas politics and policy
+- You will also want to consider to what extent this matters and for whom
+- As with any issue, thinking critically about the issue is important to developing and defending your own beliefs
+
+
+
+## Representation in Texas
+
+[As the share of white Texans continues to shrink, the Legislature remains mostly white and male](https://www.texastribune.org/2023/01/11/2023-texas-legislature-representation/)
+
+
+
+## Representation in Texas
+
+- 2023 State Legislature
+
+        - 70% male
+        - 54% white
+        - white male: nearly half
+        
+
+
+## Representation in Texas
+
+![Gender History in Texas Legislature: from Texas Tribune](gender_history.jpg)
+
+
+
+
+## Theories of Representation
+
+- Delegate model: elected officials should act as direct representatives of their constituents' preferences
+
+- Trustee model: elected officials should use their own judgment to make decisions in the best interest of their constituents, even if it goes against their constituents' preferences
+
+
+
+## What theory do you prefer?
+
+- Delegate or trustee?
+- A mix? What decides which one is appropriate in a given situation?
+- Are there limits to either?
+
+
+
+## Types of Representation 
+
+- Descriptive representation: the extent to which elected officials resemble the demographic characteristics of their constituents
+
+- Substantive representation: the extent to which elected officials advocate for the interests of their constituents, regardless of their demographic characteristics
+
+
+
+
+
+## Texas Representation (Questions)
+
+- What matters most in representation policies or demographic background? Does delegate vs trustee affect this?
+
+- Does it seem likely that Texans want to elect white males or they like something about Republican candidates and most of them are white males?
+
+- Is the white, male domination more of a long run problem for voters or for the Republican Party? 
+
+
+
+## Texas Representation (Questions) (continued)
+
+- Why are minority voters willing to vote for white male Republicans over minority Democrats?
+
+- Which party is this more of a problem for and why?
+
+
+
+
+
+
+
+
+## Representation in Texas
+
+First Black Statewide Official
+
+???
+
+
+
+## Representation in Texas
+
+- Barbara Jordan
+- First African- American woman elected to Texas Senate (1966)
+- Member of Congress (1973-1979)
+- First African American elected to Congress from Texas 
+- First African American woman from the South elected to Congress
+
+
+## Representation in Texas
+
+First Hispanic or Latino Statewide Official
+
+- Dan Morales
+- Attorney General (1991-1999)
+- Democrat
+- Succeeded by: John Cornyn
+
+
+
+## Representation in Texas
+
+![Have Republicans Elected More Hispanics Statewide than Democrats](politifact.png)^[Notes: Democrats controlled all statewide offices in Texas until 1995. The Politifact article is from 2011, before the election of George P. Bush as Land Commissioner in 2014 and Ted Cruz in 2013. Source: https://www.politifact.com/factchecks/2011/dec/12/republican-party-texas/texas-gop-chair-says-more-hispanics-have-won-state/]
+
+
+
+
+## Representation in Texas
+
+- First Republican Hispanic or Latino Statewide Official: Alberto Gonzales
+
+        - Texas Supreme Court Justice (1999-2001)
+        - Resigned to become White House Counsel (2001-2005) for George W. Bush
+        - US Attorney General (2005-2007)
+
+- Ted Cruz, US Senator (2013-present)
+- George P. Bush, Land Commissioner (2015-present)
+
+
+
+
+## Representation in Texas
+
+**First Female Governor: Miriam Amanda "Ma" Ferguson**
+
+- Second female Governor in the United States
+- Husband James Edward Ferguson, Governor 1915-1917
+
+        - impeached and removed from office
+        
+- Ma Ferguson Governor 1925-1927 and 1933-1935
+
+        - "Two for the price of one"
+        
+- Democrat
+        
+        
+
+
+## Representation in Texas
+
+**Second Female Governor**
+
+- **Ann Richards**
+- Governor 1991-1995
+- Democrat
+- Succeeded by George W. Bush
+
+
+
+
+## Representation in Texas
+
+**First Female United States Senator**
+
+- **Kay Bailey Hutchison**
+- Republican
+- 1993-2013
+- Succeeded by Ted Cruz
+
+
+
+
+
+
+
+
+
+
+
+
+## Authorship and License
+
+- Author: Tom Hanna
+
+- Website: <a href="https://tom-hanna.org/">tomhanna.me</a>
+
+- License: This work is licensed under a <a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</a>
+
+<a href= "http://creativecommons.org/licenses/by-nc-sa/4.0/">![Creative Commons License](../assets/creative_commons_license.png)</a>
+
+
